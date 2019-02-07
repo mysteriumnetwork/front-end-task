@@ -9,7 +9,7 @@ which can generate a sortable and searchable table based on that data.
 
 Take a look at `src/data` directory, there you'll find 3 JSON files containing 100, 1000 and 10000 records from our logs. 
 
-Our generals have beheaded our (now former) historian and in need of someone who can translate this into data table.
+Our generals have beheaded our (now former) librarian and in need of someone who can translate this into data table.
 
 Your goal is to build a library, which can accept any JSON data array and produce an HTML table. 
 The table header columns should be clickable to sort the rows (ASC/DESC).
