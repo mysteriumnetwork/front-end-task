@@ -29,7 +29,7 @@ You are free to use any boilerplate (including this) for your library.
 Your task will be evaluated on these criteria:
 
 - Implementation correctness of functionality described in task description
-- Concentration - only solve the requirements and don't spent more than 3-5 hours
+- Concentration - focus on the requirements
 - Clean code - demonstrate your most readable code
 - Design patterns - demonstrate your design skills (SOLID, KISS, DRY etc.)
 - Testing - demonstrate testing skills by writing automated tests for your solution (creepy love for tests is totally fine)
