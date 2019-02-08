@@ -37,7 +37,7 @@ Your task will be evaluated on these criteria:
 
 ### Specification
 
-- You must use vanilla JS for the business logic part of your library.
+- You must use vanilla JS (ES6, Flow, TypeScript, other) for the business logic part of your library.
 - You are free to use any framework or tool for DOM manipulation.
 - Your library should be able to render a table from any data set, this library should be reusable for different types of objects.
 - Table columns should be clickable and should sort the table data.
