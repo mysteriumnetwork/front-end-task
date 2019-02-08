@@ -1,6 +1,6 @@
-# War General report
+# War general report
 
-Hey, Front-end developer, we'd like you to build a report library for our War Generals!
+Hey, Front-end developer, we'd like you to build a report library for our War generals!
 
 Every war is documented and its data is stored on our servers. We're in need of a JavaScript library 
 which can generate a sortable and searchable table based on that data.
@@ -9,7 +9,7 @@ which can generate a sortable and searchable table based on that data.
 
 Take a look at `src/data` directory, there you'll find 3 JSON files containing 100, 1000 and 10000 records from our logs. 
 
-Our generals have beheaded our (now former) librarian and in need of someone who can translate this into a data table.
+Our generals have beheaded our (now former) librarian and are in need of someone who can translate this into a data table.
 
 Your goal is to build a library, which can accept any JSON data array and produce an HTML table. 
 The table header columns should be clickable to sort the rows (ASC/DESC).
@@ -19,7 +19,7 @@ or something else that you'd like to implement. That's up to you.
 **The catch is** that some object properties are missing. If the property is in less than 20% of the records, 
 it shouldn't be used as a column or there should be a feature where you could toggle the display of that column.
 
-Our Generals are keen on **testing**, so in order to avoid the destiny of the librarian, 
+Our generals are keen on **testing**, so in order to avoid the destiny of the librarian, 
 we encourage you to cover the parts of code that you deem mandatory with some type of tests (unit/integration/e2e/take your pick).
 
 You are free to use any boilerplate (including this) for your library. 
