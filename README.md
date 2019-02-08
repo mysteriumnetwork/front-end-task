@@ -22,7 +22,7 @@ it shouldn't be used as a column or there should be a feature where you could to
 Our generals are keen on **testing**, so in order to avoid the destiny of the librarian, 
 we encourage you to cover the parts of code that you deem mandatory with some type of tests (unit/integration/e2e/take your pick).
 
-You are free to use any boilerplate (including this) for your library. 
+We’ve included this boilerplate which you can use as a starting point, but it’s entirely optional - feel free to start from scratch.
 
 ## Requirements
 
