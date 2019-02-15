@@ -1,3 +1,5 @@
+![cover](https://raw.githubusercontent.com/mysteriumnetwork/winter-is-coming/master/assets/cover.jpg)
+
 # War general report
 
 Hey, Front-end developer, we'd like you to build a report library for our War generals!
