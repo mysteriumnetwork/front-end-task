@@ -1,19 +1,19 @@
-const merge = require('webpack-merge');
-const webpackConfig = require('./webpack.config');
+const { merge } = require("webpack-merge");
+const webpackConfig = require("./webpack.config");
 
 module.exports = merge(webpackConfig, {
-    devtool: 'eval',
+  devtool: "eval",
 
-    output: {
-        pathinfo: true,
-        publicPath: '/',
-        filename: '[name].js'
-    },
+  output: {
+    pathinfo: true,
+    publicPath: "/",
+    filename: "[name].js",
+  },
 
-    devServer: {
-        contentBase: "./src",
-        hot: true,
-        port: 3000,
-        host: 'localhost',
-    }
+  devServer: {
+    static: "./src",
+    hot: true,
+    port: 3000,
+    host: "localhost",
+  },
 });
